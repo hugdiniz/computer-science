@@ -6,60 +6,62 @@
   Path to a free self-taught education in Computer Science!
 </p>
 
-## Contents
+## Sumário
 
-- [About](#about)
-- [Becoming an OSS student](#becoming-an-oss-student)
-- [Motivation & Preparation](#motivation--preparation)
-- [Curriculum](#curriculum)
-- [How to use this guide](#how-to-use-this-guide)
-- [Prerequisite](#prerequisite)
-- [How to collaborate](#how-to-collaborate)
-- [Community](#community)
-- [Next Goals](#next-goals)
-- [References](#references)
+- [Sobre](#sobre)
+- [Como participar](#como-participar)
+- [Motivação e Preparação](#motivacao-e-preparacao)
+- [Currículo](#curriculum)
+- [Como utilizar este guia](#como-utilizar-este-guia)
+- [Pré-requisitos](#pre-requisitos)
+- [Como colaborar](#como-colaborar)
+- [Comunidade](#community)
+- [Próximos objetivos](#Próximos objetivos)
+- [Referências](#referencias)
 
-## About
+## Sobre
 
-Adaptação do repositório original, aplicado ao curso de ciência da computação da UFRRJ com o intuito de montar uma base de conhecimento, tanto de material quanto de código, dos próprios alunos que cursam essas matérias.
+A idéia deste projeto é construir uma __base de conhecimento gerada pelo alunos__ do curso de Ciência da Computação na Universidade Federaul Rural do Rio de Janeiro.
 
-Repositório ainda em fase experimental e que ainda precisa sofrer alterações e talvez, algumas mudanças como tradução entre outras coisas.
+Aqui você encontra a __grade completa__ do curso de gradução da UFRRJ e junto a isto cursos gratuitos produzidos __pelas melhores__ universidades do mundo que servirão de apoio e referência.
+E o mais importante, este é um lugar de compartilhar o os trabalhos executados e os conhecimentos adquiridos em cada disciplina durante o curso de graduação.
 
-## Becoming an OSS student
 
-To officially register for this course you must create a profile in our [Perfil dos estudantes](https://github.com/raulsenaferreira/computer-science/issues/1) issue.
+## Como participar
 
-> **"How can I do this?"**
+Para estar _oficialmente_ registrado nesta comunidade você deve criar um perfil na nossa página [Perfil dos estudantes](https://github.com/raulsenaferreira/computer-science/issues/1).
 
-Comment in [this](https://github.com/raulsenaferreira/computer-science/issues/1) issue  (please, do **not** open a new one) using the following template:
+> **"Como eu faço isso?"**
+
+Comente [nesta](https://github.com/raulsenaferreira/computer-science/issues/1) thread  (por favor, ___não___ abra um novo _issue_) utilizando o seguinte template:
 
 ```
-- **Name**: YOUR NAME
-- **GitHub**: [@your_username]()
-- **Twitter**: [@your_username]()
+- **Nome**: Seu Nome
+- **GitHub**: [@seu_username](https://github.com/seu_username)
+- **Twitter**: [@seu_username](https://twitter.com/seu_username)
 - **Linkedin**: [link]()
 - **Website**: [yourblog.com]()
 
-## Completed Courses
+## Disciplinas completadas
 
-**Name of the Section**
+**Ano e semestre do período**
 
-Course|Files
+Disciplina|Arquivos
 :--|:--:
-Course Name| [link]()
+Nome da Disciplina| [link]()
 ```
 
-**IMPORTANT**: add your profile **only once** and **after** you **finish** each course you can **return** to that issue and **update** your comment.
+**IMPORTANTE**: coloque seu perfil **apenas uma vez** e **depois** que **terminar** cada disciplina, você pode **retornar** àquele _issue_ e **atualizar** seu comentário.
 
-**ps**: In the *Completed Courses* section, you should link the repository that contains the files that you created in the respective course.
+**ps**: Na seção *Cursos completados*, você deveria colocar o link do repositório que contém os arquivos que você criou nos respectivos cursos.
 
-> **"Why should I do this?"**
+> **"Porque eu deveria fazer isso?"**
 
-By making a [public commitment](http://renewablewealth.com/articles/the-power-of-a-public-commitment/), we have a greater chance of **successfully** graduating, a way to get to know our peers better, and an opportunity to share the things that we have done.
+Fazendo um [compromisso público](http://renewablewealth.com/articles/the-power-of-a-public-commitment/), nós temos uma chance maior de nos graduar com **sucesso**, uma forma de conhecer melhro nossos colegas, e uma oportunidade de compartilhar as coisas que nós fizemos.
 
-That is why we are using this strategy.
+É por isso que nós estamos utilizando esta estratégia.
 
-## Motivation & Preparation
+## Motivação e Preparação
 
 Here are two interesting links that can make **all** the difference in your journey.
 
@@ -320,7 +322,7 @@ Search such specializations in the following platforms:
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
-## How to use this guide
+## Como utilizar este guia
 
 ### Order of the classes
 
@@ -393,7 +395,7 @@ You must share **only** files that you are **allowed** to! **Do NOT disrespect t
 
 [Watch](https://help.github.com/articles/watching-repositories/) this repository for futures improvements and general information.
 
-## Prerequisite
+## Pré-requisitos
 
 The **only things** that you need to know are how to use **Git** and **GitHub**. Here are some resources to learn about them:
 
@@ -417,7 +419,7 @@ Our students can **trust** in this curriculum because it has been **carefully pl
 
 We also include modern topics, making this course one of the **best options** for those who want to become a Computer Scientist and/or a Software Engineer.
 
-## How to collaborate
+## Como colaborar
 
 You can [open an issue](https://help.github.com/articles/creating-an-issue/) and give us your suggestions as to how we can improve this guide, or what we can do to improve the learning experience.
 
@@ -425,7 +427,7 @@ You can also fork this project and fix any mistakes that you have found.
 
 Let's do it together! =)
 
-## Community
+## Comunidade
 
 Subscribe to [/r/opensourcesociety](https://www.reddit.com/r/opensourcesociety/)!
 
@@ -439,11 +441,11 @@ Add **Open Source Society University** to your [Facebook](https://www.facebook.c
 
 > **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our subreddit/group for important discussions**.
 
-## Next Goals
+## Próximos objetivos
 
 - [Add our University page at Linkedin](https://help.linkedin.com/app/answers/detail/a_id/40128/~/adding-a-new-university-page), so in that way we will be able to add **OSS University** in our Linkedin profile.
 
-## References
+## Referências
 
 - [Google - Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Coursera](https://www.coursera.org/)

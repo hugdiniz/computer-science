@@ -63,19 +63,20 @@ Fazendo um [compromisso público](http://renewablewealth.com/articles/the-power-
 
 ## Motivação e Preparação
 
+Aqui est'ao aluns links interessantes que pode fazer **toda** diferença na sua jornada.
 Here are two interesting links that can make **all** the difference in your journey.
 
-The first one is a motivational video that shows a guy that went through the "MIT Challenge", that consists in learning the entire **4-year** MIT curriculum for Computer Science in **1 year**.
+O primeiro é um vídeo motivacional que mostra um cara que passou pelo "MIT Challenge", que consiste em aprender o curso inteiro de **4 anos** do currículo MIT para Ciência da Computação em **1 ano**.
 
 - [MIT Challenge](http://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 
-The second link is a MOOC course that will teach you learning techniques used by experts in art, music, literature, math, science, sports, and many other disciplines. This is a **fundamental ability** to succeed in our journey.
+O segundo link é um curso MOOC que irá ensiná-lo técnicas de aprendizado utilizadas por _experts_ em arte, música, literatura, matemática, ciência, esportes e muitas outras disciplinas. Esta é uma **habilidade fundamental** para obter sucesso em nossa jornada.
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
-**Are you ready to get started?**
+**Você está pronto para começar?**
 
-## Curriculum
+## Currículo
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Math (Mathematical Thinking)](#math-mathematical-thinking)
@@ -312,45 +313,45 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)| 4 weeks | 2 hours/week
 
-### Specializations
+### Especializações
 
-After finishing the courses above, start your specializations on the topics that you have more interest.
+Depois de terminar os cursos acima, comece sua especialização nos tópicos que você tem maior interesse.
 
-Search such specializations in the following platforms:
+Procure por tais especializações nas seguintes plataformas:
 
 #### [Coursera](https://www.coursera.org/) | [edX](https://www.edx.org/) | [Udacity](https://www.udacity.com/) | [Future Learn](https://www.futurelearn.com/) | [Udemy](https://www.udemy.com)
 
-![keep learning](http://i.imgur.com/REQK0VU.jpg)
+![Continue aprendendo](http://i.imgur.com/REQK0VU.jpg)
 
 ## Como utilizar este guia
 
-### Order of the classes
+### Ordem das aulas
 
-This guide was developed to be consumed in a linear approach. What does this mean? That you should complete one course at a time.
+Este guia foi desenvolvido para ser seguido em uma abordagem linear. O que isso significa? Que você deve completar um curso de cada vez.
 
-The courses are **already** in the order that you should complete them. Just start in the **Introduction** section and after finishing the first course, start the next one.
+Os cursos **já estão** na ordem que você deve completá-los. Comece na seção **Introdução** e depois de terminar o primeiro curso, comece o próximo.
 
-**If the course isn't open, do it anyway with the resources from the previous class.**
+**Se o curso não está aberto, faça-o assim mesmo com os recursos da turma anterior.**
 
-### Should I take all courses?
+### Eu devo fazer todos os cursos?
 
-**Yes!** The intention is to conclude **all** the courses listed here!
+**Sim!** A intenção aqui é concluir **todos** os cursos listados!
 
-### Duration of the project
+### Duração do projeto
 
-It may take longer to complete all of the classes compared to a  regular CS course, but I can **guarantee** you that your **reward** will be proportional to **your motivation/dedication**!
+Pode demorar um pouco mais para completar todas as disciplinas comparado a um curso de CC regular, mas eu posso **garantir** que a sua **recompensa** será proporcional à **sua motivação/dedicação**!
 
-You must focus on your **habit**, and **forget** about goals. Try to invest 1 ~ 2 hours **every day** studying this curriculum. If you do this, **inevitably** you'll finish this curriculum.
+Você deve focar no **hábito**, e **esquecer** os objetivos. Tente investir de 1 ~ 2 horas **por dia** estudando este currículo. Se você fizer isto, **inevitávelmente** irá terminá-lo.
 
-> See more about "Commit to a process, not a goal" [here](http://jamesclear.com/goals-systems).
+> Veja mais sobre "Comprometa-se com um processo, não um obejetivo" [aqui](http://jamesclear.com/goals-systems).
 
-### Project Based
+### Baseado em Projetos
 
-Here in **OSS University**, you do **not** need to take exams, because we are focused on **real projects**!
+Aqui no **OSS University**, você **não** precisa fazer provas, porque estamos focados em **projetos reais**!
 
-In order to show for everyone that you **successfully** finished a course, you should create a **"startup project"**.
+A fim de mostrar a todos que você concluiu um curso **com sucesso**, você deve criar um **projeto startup**.
 
-> "What does it mean?"
+> "O que isso significa?"
 
 After finish a course, you should think about a **real problem** that you can solve using the acquired knowledge in the course. You don't need to create a big project, but you must create something to **validate** and **consolidate** your knowledge, and also to show to the world that you are capable to create something useful with the concepts that you learned.
 
